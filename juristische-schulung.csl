@@ -5,7 +5,7 @@
     <title-short>JuS</title-short>
     <id>http://www.zotero.org/styles/juristische-schulung</id>
     <link href="http://www.zotero.org/styles/juristische-schulung" rel="self"/>
-    <link href="https://www.zotero.org/styles/juristische-zitierweise" rel="template"/>
+    <link href="https://www.zotero.org/styles/neue-juristische-wochenschrift" rel="template"/>
     <link href="http://rsw.beck.de/rsw/upload/JuS/jusautorenhinweise.pdf" rel="documentation"/>
     <author>
       <name>Reto Mantz</name>
@@ -15,7 +15,7 @@
     <issn>0022-6939</issn>
     <summary>JuS
     Style for articles in German law journal JuS
-    - based on style Neue Juristische Wochenschrift (NJW) http://www.zotero.org/styles/neue-juristische-wochenschrift
+    - based on style Neue Juristische Wochenschrift (NJW)
     - Commentaries and handbooks should use publication type "entry-encyclopedia". See details for different citations below.
     - If a book or entry-encyclopedia is cited for the 2nd time (or more), "title and edition" are substituted by (o. Fn. ...)
       (see footnote ...)
